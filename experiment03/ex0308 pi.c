@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include<stdio.h>
 
 #include<stdlib.h>
@@ -62,5 +63,7 @@ int main (void)
 
 
 }
+=======
+>>>>>>> 08daf5e3f525c9b72e49bc6ee13aef0a00bca065
 =======
 >>>>>>> 08daf5e3f525c9b72e49bc6ee13aef0a00bca065
