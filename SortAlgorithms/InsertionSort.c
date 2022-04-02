@@ -36,7 +36,7 @@ int* InsertionSort(int* array,int arraySize)
 
     for(i=1; i<arraySize; i++)
     {
-        temp=array[i];//计数器到i，开始对array[i]进行选择排序。
+        temp=array[i];//计数器到i，开始对array[i]进行插入排序。
         
         for(j=i-1; j>=0 && temp<array[j]; j--)//在已排序范围内j=i-1，j--，直至找到对array[i]来说的合适位置
         {
